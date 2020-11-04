@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/FarzanehKhasheie/SOP/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/FarzanehKhasheie/SOP/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<I DOCTYPE html>
+<html dir="rtl" lang="fa">
+<head>
+<meta chaset="utf-8">
+<title>صفحه ی فارسی راست چین می باشد</title>
+</head>
+<body>
+<div dir="rlt">
+با سلام 
+<br>
+<br>
+فرزانه خاشعی هستم 
+<br>
+دانشجوی ارشد رشته ی نرم افزار دانشگاه پیام نور تهران شمال هستم
+<br>
+<br>
+ در زمان کارشناسی زبان های برنامه نویسی جاوا و سی شارپ و سی پلاس را مسلط بودم و 
+<br>
+در جشنواره ی مسابقات ناحیه ای مقام سوم را کسب کردم.
+<br>
+در چندسال اخیر برنامه نویسی را کمتر کار کردم و بیشترین تمرکزم بر روی طراحی های کامپیوتری با فتوشاپ و ایلوستراتور شد،
+<br>
+<br>
+ در حال حاضر ادیت و طراحی حرفه ای عکسهای تبلیغاتی انجام میدهم و لوگوهای سطح بالا میزنم و پیج های اینستاگرام را مدیریت میکنم.
+<br>
+در آینده میخواهم هم چنان کارهای طراحی و تبلیغاتی را ادامه دهم تا بتوانم در این زمینه یکی از بهترین ها بشوم.
+</div>
+</body>
+</html>
